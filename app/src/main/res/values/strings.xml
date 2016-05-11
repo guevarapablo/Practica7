@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practica7</string>
+    <string name="text1">Bienvenido a peluchitos.com\nPor favor seleccione una opción.\n\n*Para vender, buscar, eliminar y actualizar se hace por medio del Id del peluche en cuestión.</string>
+</resources>
